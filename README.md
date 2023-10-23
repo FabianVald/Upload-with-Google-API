@@ -11,7 +11,7 @@
 
 2. The quick start guides explain how to set up and run an app that calls a Google Workspace API, which is why you need to complete this form (https://developers.google.com/docs/api/quickstart/python?hl=es-419). In particular, you must enable the API, set up the OAuth consent screen and Authorize credentials for a desktop application.
 
-3. Install dependencies from requirements.txt
+3. Install dependencies from requirements.txt: pip install -r requirements.txt
    
 ## Use
 
