@@ -16,6 +16,6 @@
 ## Use
 
 1. Place all python files in the same folder as credentials.json.
-2. Inside the Cloud.py file modify the "folder_id" to the desired one (corresponding to the Drive folder where the files are expected to be stored).
+2. Inside the main.py file modify the "folder_id" to the desired one (corresponding to the Drive folder where the files are expected to be stored).
 3. Create a folder inside your current working directory called forUpload and store the files you expect to upload in it.
-5. Run the Cloud.py file to upload all files located in the forUpload folder.
+5. Run the main.py file to upload all files located in the forUpload folder.
