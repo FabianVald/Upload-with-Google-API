@@ -70,11 +70,3 @@ def upload_file(file_path, folder_id=None):
         file = None
 
     return file
-
-# Ejemplo de uso
-if __name__ == '__main__':
-    
-    file_path = ''  # Reemplazar con ruta del archivo
-    folder_id = ''  # ID de la carpeta en Google Drive
-
-    upload_file(file_path, folder_id)
