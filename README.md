@@ -16,8 +16,9 @@
 ## Use
 
 1. Place all python files in the same folder as credentials.json.
-2. Inside the main.py file modify the "folder_id" to the desired one (corresponding to the Drive folder where the files are expected to be stored).
+2. Inside the main.py or function module use (cloud_delete.py) file modify the "folder_id" to the desired one (corresponding to the Drive folder where the files are expected to be stored) and the path of the file to upload.
 3. Create a folder inside your current working directory called "forUpload" and store the files you expect to upload in it.
-5. Run the main.py file to upload all files located in the forUpload folder.
+5. Run the main.py or execute de function to upload the file located in the forUpload folder.
+6. Warning! The file it's will deleted after upload process.
 
-If you use this module, please thank Fabian Valderrama.
+If you use this module, please thank Fabian Valderrama and Google.
